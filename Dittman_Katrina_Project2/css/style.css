@@ -1,0 +1,130 @@
+/* Body */
+
+body {
+
+   background-color:#000000;
+   background-image:url("http://i.imgur.com/g6jk3jU.jpg");
+
+}
+
+q {
+    
+   color:#ffffff;
+   text-indent:30px;
+   font-size:18px;
+}
+
+/* Navigation */
+
+#nav  {
+ 
+   background: #000000; 
+   color: #ffffff; 
+   padding-top:1px; 
+   padding-bottom:2px; 
+   margin-left:500px; 
+   margin-top:2px; 
+   position: relative; 
+   height:30px;
+   width:395px;
+   -moz-border-radius:7px; 
+   -webkit-border-radius:7px; 
+   box-shadow:2px 2px 2px 2px #2f53c6;
+}
+
+#nav ul li {
+    
+    display: inline; 
+    list-style-type: none;
+    margin: 10px;
+    
+
+}
+
+/* Headers */
+
+h1 {
+
+   color:#696e75;
+   text-align: center;
+   text-shadow: 2px 2px #000000;
+   font-size:50px;
+}
+
+h2 {
+
+    color:#ff0000;
+    text-align: center;
+    text-shadow: 2px 2px #98999d;
+    font-size:30px;
+
+
+}
+
+/* Main Content */ 
+
+#main {
+
+    background-color:#000000;
+    color:#ff0000;
+    position: absolute;
+    top:175px;
+    left:45px;
+    right:45px;
+    bottom: -1680px;
+    -moz-border-radius:11px; 
+    -webkit-border-radius:11px;
+    text-align:center;
+    box-shadow:4px 5px 5px 7px #2f53c6;
+}
+
+li {
+
+    list-style-type: none;
+}
+
+/* Links */
+
+
+a:link {
+    
+    color:#dbd413;
+    text-decoration: none; 
+}
+
+a:visited{
+
+    color:#2945e3;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color:#dbd413;
+    text-decoration: underline;
+
+}
+
+a:active {
+
+    color:#2945e3;
+    text-decoration: underline;
+}
+
+#para1 {
+background-color:#ffffff;
+}
+
+/* Gallery */
+
+#gallery1 {
+display: inline;
+}
+
+/* Footer */
+
+#footer {
+
+    text-align:center;
+
+}
